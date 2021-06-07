@@ -1,0 +1,36 @@
+.head
+{
+    width: 100%;
+    text-align: left;
+}
+.head h1
+{
+    display: inline;
+}
+.head button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+#start, #status
+{
+    font-size: 22px;
+}
+.modal-dia
+{
+    width: 90%;
+}
+ol 
+{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
+.footer
+{
+    width: 100%;
+    line-height: 2;
+    background-color: gray;
+    color: white;
+}
